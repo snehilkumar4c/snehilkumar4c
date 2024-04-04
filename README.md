@@ -46,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/vault-original.svg" width="40" height="40" title="React"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" width="40" height="40" title="Vault"/>
  
 - ---
 ### :fire: My Stats :
