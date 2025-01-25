@@ -1,61 +1,43 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/snehil-kumar-923b17198">
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=snehilkumar4c&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hello There! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  </h1>
+<div height="200" width="200">
+    <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/4ubahpvgq62mbBn565/giphy.gif?id=ecf05e475ssgdmv9xtiejh5l62x3onpzg4ldtuzcbouivve8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
-</div>
-- ---
 
-### :man_technologist: About Me :
+# Welcome to My GitHub Profile!
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I am into Development area which includes the developing the rich web applications and also for the Android
 
-- :seedling: Exploring more in Development
 
-- :zap: In my free time, I like to go out for a walk and also play some games 
+## About Me
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehil-kumar-923b17198/)
-- ---
+Hi, I'm Snehil 👋
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" title="Android Studio"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40" height="40" title="Atom"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" title="C"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  width="40" height="40" title="CSS3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"  width="40" height="40" title="Flutter"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MY SQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" width="40" height="40" title="Vault"/>
- 
-- ---
-### :fire: My Stats :
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehilkumar4c&hide=issues&show_icons=true&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehilkumar4c&layout=compact&theme=radical&hide_border=true" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=snehilkumar4c&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</a>
+- 🌱 I’m currently learning ExpressJs
+- 👯 I’m looking to collaborate on Backend Web
+- ⚡ Fun fact: Love interacting with people
+
+## Skills
+
+- **Languages**: <code><img height="20" widht="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+- **Frameworks**: [Framework 1], [Framework 2], [Framework 3]
+- **Tools**: [Tool 1], [Tool 2], [Tool 3]
+
+## Projects
+
+### Project 1
+[Project 1 Description]
+
+- [Link to Project 1](https://github.com/yourusername/project1)
+
+### Project 2
+[Project 2 Description]
+
+- [Link to Project 2](https://github.com/yourusername/project2)
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:youremail@example.com)
