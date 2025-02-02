@@ -1,4 +1,4 @@
-<div height="200" width="200">
+<div height="200" width="200" align="center">
     <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/4ubahpvgq62mbBn565/giphy.gif?id=ecf05e475ssgdmv9xtiejh5l62x3onpzg4ldtuzcbouivve8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
 
@@ -16,8 +16,8 @@ Hi, I'm Snehil 👋
 
 ## Skills
 
-- **Languages**: <code><img height="20" widht="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-- **Frameworks**: [Framework 1], [Framework 2], [Framework 3]
+- **Languages**: <code><img height="20" widht="20" alt="c++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code><code><img height="20" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code><code><img height="20" alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code><code><img height="20" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code><code><img height="20" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code><code><img height="20" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+- **Frameworks**: <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code><code><img height="20" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code><code><img height="20" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 - **Tools**: [Tool 1], [Tool 2], [Tool 3]
 
 ## Projects
