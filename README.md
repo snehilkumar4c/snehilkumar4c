@@ -8,7 +8,7 @@
 
 Hi, I'm Snehil 👋
 
-- 🌱 I’m currently learning ExpressJs
+- 🌱 I’m currently learning BackEnd Technologies
 - 👯 I’m looking to collaborate on Backend Web
 - ⚡ Fun fact: Love interacting with people and going with the flow 
 
